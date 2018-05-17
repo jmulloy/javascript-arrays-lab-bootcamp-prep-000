@@ -14,4 +14,5 @@ function destructivelyRemoveFirstKitten(name) {
 }
 function appendKitten (name, broom) {
   newKittens.push=[...array]
+  return newKittens
 }
